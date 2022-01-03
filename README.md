@@ -33,6 +33,6 @@
 [website]: https://victorbracco.com/
 [linkedin]: https://linkedin.com/in/vbracco
 [twitter]: https://twitter.com/vbracco/
-[instagram]: https:/instagram/u/vbracco/
+[instagram]: https:/instagram.com/u/vbracco/
 [crombie]: https://crombie.dev/
 [nodejs]: https://nodejs.dev/
