@@ -1,6 +1,6 @@
 ### Hi there, I'm Victor Bracco 👋
 
-- 🔭 I’m currently working at [Crombie.dev][crombie] as a Back-End developer.
+- 🔭 I’m currently working at [Crombie][crombie] as a Back-End developer.
 - 🌱 I’m currently learning [Nodejs][nodejs]
 
 ### Connect with me:
