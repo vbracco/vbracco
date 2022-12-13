@@ -1,14 +1,7 @@
 ### Hi there, I'm Victor Bracco 👋
 
-- 🔭 I’m currently working at [Crombie][crombie] as a Back-End developer.
-- 🌱 I’m currently learning [Nodejs][nodejs]
+- 🔭 I’m currently working at [Crombie][crombie] as a Senior Back-End Developer. Working with [Nodejs][nodejs], Express, and MongoDB.
 
-### Connect with me:
-[<img align="left" alt="VictorBracco.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="vbracco | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vbracco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vbracco | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
