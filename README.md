@@ -1,6 +1,6 @@
 ### Hi there, I'm Victor Bracco 👋
 
-- 🔭 I’m currently working at [Crombie][crombie] as a Senior Back-End Developer. Working with [Nodejs][nodejs], Express, and MongoDB.
+- 🔭 I’m currently working at [NaranjaX][naranjax] as a Senior Software Engineer.
 
 ### Languages and Tools:
 
@@ -27,5 +27,5 @@
 [linkedin]: https://linkedin.com/in/vbracco
 [twitter]: https://twitter.com/vbracco/
 [instagram]: https://www.instagram.com/vbracco/
-[crombie]: https://crombie.dev/
+[naranjax]: https://naranjax.com/
 [nodejs]: https://nodejs.dev/
